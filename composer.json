@@ -1,5 +1,5 @@
 {
-    "name": "sywlwl/composer_set",
+    "name": "zhaojunbo/composer_set",
     "description": "dev",
     "type": "composer-plugin",
     "require": {
@@ -14,7 +14,7 @@
     },
     "authors": [
         {
-            "name": "zhaojunbo0822",
+            "name": "zhaojunbo",
             "email": "zhjb1994@163.com"
         }
     ],
