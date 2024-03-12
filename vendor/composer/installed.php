@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'sywlwl/composer_set',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'zhaojunbo/composer_set',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '8ccf0bcc7d8ee3ad47e6a4e15a82792f1449d124',
         'type' => 'composer-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -106,10 +106,10 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'sywlwl/composer_set' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'zhaojunbo/composer_set' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '8ccf0bcc7d8ee3ad47e6a4e15a82792f1449d124',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
