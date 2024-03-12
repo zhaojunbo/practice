@@ -1,0 +1,22 @@
+{
+    "name": "sywlwl/composer_set",
+    "description": "dev",
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=8.0",
+        "symfony/serializer": "^6.4",
+        "symfony/console": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sywlwl\\ComposerSet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhaojunbo0822",
+            "email": "zhjb1994@163.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
