@@ -2,7 +2,7 @@
     "name": "zhaojunbo/composer_set",
     "description": "dev",
 
-    "type": "composer-plugin",
+    "type": "library",
     "require": {
         "composer-plugin-api":"^2.3",
         "php": ">=8.0",
