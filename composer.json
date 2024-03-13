@@ -1,12 +1,14 @@
 {
     "name": "zhaojunbo/composer_set",
     "description": "dev",
+
     "type": "composer-plugin",
     "require": {
         "php": ">=8.0",
         "symfony/serializer": "^6.4",
         "symfony/console": "^6.0"
     },
+    "extra": [],
     "license": "MIT",
     "autoload": {
         "psr-4": {
