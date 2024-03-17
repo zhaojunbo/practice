@@ -10,12 +10,12 @@
         "symfony/console": "^6.0"
     },
     "extra": {
-        "class": "Sywlwl\\ComposerSet\\Command\\GetTimeCommand"
+        "class": "ComposerSet\\src\\Command\\GetTimeCommand"
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sywlwl\\ComposerSet\\": "src/"
+            "Zhaojunbo\\ComposerSet\\": "src/"
         }
     },
     "authors": [
